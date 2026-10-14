@@ -1,1 +1,1 @@
-Project goal: learn Git basics.
+Project goal: practice remote collaboration on master.
