@@ -1,1 +1,1 @@
-Project goal: practice remote collaboration on master.
+Project goal: practice remote collaboration on master and branch development on dev.
