@@ -1,1 +1,1 @@
-Project goal: learn Git basics.
+Project goal: practice branch development on dev.
